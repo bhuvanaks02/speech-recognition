@@ -6,7 +6,7 @@ To run this, first use the commands given below in your terminal and then run th
 
 pip install SpeechRecognition <br>
 pip install pyttsx3
-<br>
+<br><br>
 OR <br>
 
 install using the requirements.txt file given:
